@@ -87,3 +87,6 @@ man/*.1.gz
 /chronograf
 /http
 /ui
+
+# idea
+.idea
